@@ -44,13 +44,12 @@ INFO[0000] Telnet Server listening on 127.0.0.1:7001
 ```
 
 2. connect to server
-Open terminal
+Open terminal (you can open more than one Terminal)
 
 ```bash 
 telnet 127.0.0.1 7001
 
 # you will see 
-
 Trying 127.0.0.1...
 Connected to localhost.
 Escape character is '^]'.
@@ -61,6 +60,8 @@ Please Enter Name: John
 welcome John 2022-08-01 04:09:58
 
 ```
-![][/screenshot/chat_1.jpg]
 
-![][/screenshot/chat_2.jpg]
+
+![](/screenshot/chat_1.png)
+
+![](/screenshot/chat_2.png)
