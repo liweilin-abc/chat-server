@@ -1,0 +1,5 @@
+{
+  "bind_addr": "127.0.0.1:7001",
+  "bind_port": "7001",
+  "log_file": "log/chat.log"
+}

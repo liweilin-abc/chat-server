@@ -1,0 +1,46 @@
+# Code Challenges
+We want to see code you've written, so we have a brief set of requirements for you to write code against. 
+Use whatever language and tech stack you're most comfortable with.
+Plan on spending around four hours of time to complete this. 
+
+This is to protect you; 
+we don't want you to spend days coding only for either one of us to decide later we aren't a good fit for each other. 
+It isn't a hard cutoff. You're free to spend more time if you'd like to. 
+If you don't finish the assignment, you should be able to talk about how you would implement the remaining parts.
+Just like in real life, you can use the internet to help you remember some syntax or figure out a library. 
+Unlike real life, you *should not* use someone else's solution for the project. 
+Use good judgement. Googling how to read in a file is fine. 
+Googling "tcp sockets" to understand how sockets work is fine. 
+Copying and pasting a chat server you've found online is not.
+
+The goal is to see how you approach a problem.
+Can you decide on and implement an algorithm? 
+What data structures do you use? How do you organize your code? 
+What parts of the problem seem most important to solve first? 
+How would the user interact with your program?
+Please contact us if anything in the instructions is confusing. 
+We've tried to leave space for creativity and problem-solving, 
+but we also don't want you becoming frustrated or stuck.
+Good luck!
+
+# Make A Chat Server
+Write a telnet chat server.
+You can use Google and the internet just like in real life.
+You can use 3rd party code just like in real life. Just let us know what libraries you included.
+## Features
+Your chat server should support the following features:
+* Connect a client to the server
+* Send a message to the server
+* The server relays messages to all connected clients, including a timestamp and name of the client sending the message
+ 
+## Extra Features
+If you want to go the extra mile, consider adding these features.
+* Log messages to a file
+* Read in config from a config file for port, IP, and log file location
+* An HTTP API to post messages
+* An HTTP API to query for messages
+* Support multiple channels or rooms
+* Support changing clients changing their names
+ 
+## Instructions For Submission
+Please email us a link to a GitHub repository. Include a `README.md` file with notes and instruct
