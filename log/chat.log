@@ -1,7 +1,8 @@
-{"date":"2022-08-01T03:00:26.379619-05:00","text":"abc join chat","sender":null,"msg_type":"system"}
-{"date":"2022-08-01T03:00:41.317026-05:00","text":"abc: hello","sender":{"Name":"abc"},"msg_type":"user"}
-{"date":"2022-08-01T03:48:11.639756-05:00","text":"abc: \ufffd\ufffd\ufffd\ufffd\u0006","sender":{"Name":"abc"},"msg_type":"user"}
-{"date":"2022-08-01T03:48:18.489087-05:00","text":"abc: \ufffd\ufffd\u0006^]","sender":{"Name":"abc"},"msg_type":"user"}
+{"id":"","date":"2022-08-01T04:09:58.881609-05:00","text":"John join chat","sender":null,"msg_type":"system"}
+{"id":"","date":"2022-08-01T04:10:58.023693-05:00","text":"Mary join chat","sender":null,"msg_type":"system"}
+{"id":"","date":"2022-08-01T04:11:35.861516-05:00","text":"Mary: hello","sender":{"name":"Mary"},"msg_type":"user"}
+{"id":"","date":"2022-08-01T04:11:45.236318-05:00","text":"John: i am fine","sender":{"name":"John"},"msg_type":"user"}
+"}
 {"date":"2022-08-01T03:48:19.571844-05:00","text":"abc: ","sender":{"Name":"abc"},"msg_type":"user"}
 {"date":"2022-08-01T03:48:19.810806-05:00","text":"abc: ","sender":{"Name":"abc"},"msg_type":"user"}
 {"date":"2022-08-01T03:48:20.05162-05:00","text":"abc: ","sender":{"Name":"abc"},"msg_type":"user"}
