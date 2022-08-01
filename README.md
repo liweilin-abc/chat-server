@@ -47,7 +47,7 @@ INFO[0000] Telnet Server listening on 127.0.0.1:7001
 Open terminal (you can open more than one Terminal)
 
 ```bash 
-telnet 127.0.0.1 7001
+$ telnet 127.0.0.1 7001
 
 # you will see 
 Trying 127.0.0.1...
@@ -59,6 +59,9 @@ Please Enter Name:
 Please Enter Name: John
 welcome John 2022-08-01 04:09:58
 
+# if in macos telnet not working,please install telnet
+
+$ brew install telnet
 ```
 
 
